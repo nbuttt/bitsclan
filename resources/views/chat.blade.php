@@ -6,7 +6,7 @@
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
             <div class="panel panel-default">
-                <div class="panel-heading">How To Build Live Chat App In Laravel 9 And Vue JS - Websolutionstuff</div>
+                <div class="panel-heading">Bitsclan Chat</div>
 
                 <div class="panel-body">
                     <chat-messages :messages="messages"></chat-messages>
